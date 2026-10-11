@@ -1,2 +1,2 @@
 # odin-recipes
-Recipes page
+Some recipes to practices HTML
