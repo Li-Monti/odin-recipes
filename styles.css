@@ -1,0 +1,75 @@
+
+
+* {
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: rgb(255, 255, 255);    
+}
+
+.card{
+    background-color: rgb(207, 207, 207);
+    font-family: "Iosevka", sans-serif;
+    font-size: 20px;
+    width: 700px;
+    height: auto;
+    padding: 40px;
+    margin: auto;
+    outline: 3px solid black;
+    text-align: center;
+}
+
+h1{
+text-align: center;
+color: rgb(244, 168, 74);
+}
+
+h2{
+    text-align: center;
+}
+
+img {
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+
+.recipes-list{
+background-color: rgb(255, 255, 255);
+border: 10px rgb(31, 26, 26);
+text-align: left;
+padding: 5px;
+outline: 3px solid rgb(151, 146, 146);
+margin-bottom: 30px;
+}
+
+.ingredientes{
+    background-color: rgb(185, 190, 194);
+    text-align: left;
+    padding: 2px;
+    margin: 20px;
+    outline: 3px solid rgb(112, 112, 112);
+}
+.paso-paso{
+    background-color: rgb(185, 190, 194);
+    text-align: left;
+    padding: 2px;
+    margin: 20px;
+    outline: 3px solid rgb(112, 112, 112);
+}
+
+
+
+.boton{
+    padding: 10px;
+    background-color: rgb(102, 67, 51);
+    border: solid 5px rgb(69, 53, 23);
+    margin: auto;
+    width: 200px;
+}    
+
+.boton a{
+color: rgb(255, 207, 185);
+} 
